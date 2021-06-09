@@ -1,0 +1,3 @@
+pip install flask
+python index.py //para arrancar servidor web
+//la carpeta templates debe tener ese nombre
